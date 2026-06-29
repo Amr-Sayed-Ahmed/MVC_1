@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MVC_1.BLL/MVC_1.BLL.csproj" />
+  <Project Path="MVC_1.DAL/MVC_1.DAL.csproj" />
+  <Project Path="MVC_1.PL/MVC_1.PL.csproj" />
+</Solution>
